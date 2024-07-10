@@ -1,6 +1,3 @@
-[submodule "module-A/moduleA"]
-	path = /home/wswolf/testGit/module-A/moduleA
-	url = https://github.com/ChenDan89/moduleA.git
 [submodule "moduleA"]
 	path = moduleA
 	url = https://github.com/ChenDan89/moduleA.git
